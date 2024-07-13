@@ -1,0 +1,2822 @@
+[
+ {
+   "location": "Abbeville, South Carolina",
+   "coordinates": [-82.376324,34.177591]
+ },
+ {
+   "location": "Aberdeenshire, Scotland",
+   "coordinates": [-2.513947,57.26782]
+ },
+ {
+   "location": "Abiquiu, New Mexico",
+   "coordinates": [-106.481987,36.313731]
+ },
+ {
+   "location": "Abu Dhabi, United Arab Emirates",
+   "coordinates": [54.36667,24.46667]
+ },
+ {
+   "location": "Abu Dhabi, United Arab Emirates",
+   "coordinates": [54.656162,24.337751]
+ },
+ {
+   "location": "Adelaide, Australia",
+   "coordinates": [138.600132,-34.926166]
+ },
+ {
+   "location": "Ahmedabad, India",
+   "coordinates": [72.582261,23.003078]
+ },
+ {
+   "location": "Akron, Ohio",
+   "coordinates": [-81.51848,41.087387]
+ },
+ {
+   "location": "Alamogordo, New Mexico",
+   "coordinates": [-105.962671,32.872326]
+ },
+ {
+   "location": "Albany, New York",
+   "coordinates": [-73.794204,42.66882]
+ },
+ {
+   "location": "Alberta, Canada",
+   "coordinates": [-115.255608,54.648247]
+ },
+ {
+   "location": "Albuquerque, New Mexico",
+   "coordinates": [-106.637347,35.103678]
+ },
+ {
+   "location": "Aldergrove, Canada",
+   "coordinates": [-122.470652,49.057633]
+ },
+ {
+   "location": "Alexandria, Egypt",
+   "coordinates": [29.914029,31.195315]
+ },
+ {
+   "location": "Alexandria, Virginia",
+   "coordinates": [-77.087363,38.811191]
+ },
+ {
+   "location": "Algiers, Algeria",
+   "coordinates": [3.087819,36.730758]
+ },
+ {
+   "location": "Almeria, Spain",
+   "coordinates": [-2.208829,37.190635]
+ },
+ {
+   "location": "Almería, Spain",
+   "coordinates": [-2.208829,37.190635]
+ },
+ {
+   "location": "Almonte, Canada",
+   "coordinates": [-76.194068,45.225492]
+ },
+ {
+   "location": "Alton, New Hampshire",
+   "coordinates": [-71.321825,43.608713]
+ },
+ {
+   "location": "Amherst, Massachusetts",
+   "coordinates": [-72.516962,42.370544]
+ },
+ {
+   "location": "Amityville, New York",
+   "coordinates": [-73.415188,40.672231]
+ },
+ {
+   "location": "Amman, Jordan",
+   "coordinates": [35.94503,31.95522]
+ },
+ {
+   "location": "Amsterdam, Netherlands",
+   "coordinates": [4.89973,52.37243]
+ },
+ {
+   "location": "Anchorage, Alaska",
+   "coordinates": [-149.827626,61.188546]
+ },
+ {
+   "location": "Anderson, South Carolina",
+   "coordinates": [-82.648299,34.521664]
+ },
+ {
+   "location": "Ann Arbor, Michigan",
+   "coordinates": [-83.729452,42.271775]
+ },
+ {
+   "location": "Annapolis, Maryland",
+   "coordinates": [-76.482801,38.981803]
+ },
+ {
+   "location": "Aokigahara Forest, Japan",
+   "coordinates": [138.654311,35.462643]
+ },
+ {
+   "location": "Aokigahara, Japan",
+   "coordinates": [138.654399,35.462524]
+ },
+ {
+   "location": "Aqaba, Jordan",
+   "coordinates": [35.00778,29.52667]
+ },
+ {
+   "location": "Area 51, Nevada",
+   "coordinates": [-115.811177,37.240771]
+ },
+ {
+   "location": "Arlington Heights, Illinois",
+   "coordinates": [-87.983524,42.097535]
+ },
+ {
+   "location": "Arnhem, Netherlands",
+   "coordinates": [5.900025,52.003419]
+ },
+ {
+   "location": "Ashville, North Carolina",
+   "coordinates": [-78.455056,35.387362]
+ },
+ {
+   "location": "Aspen, Colorado",
+   "coordinates": [-106.835836,39.20067]
+ },
+ {
+   "location": "Athens, Greece",
+   "coordinates": [23.734206,37.990411]
+ },
+ {
+   "location": "Atlanta, Georgia",
+   "coordinates": [-84.414581,33.769805]
+ },
+ {
+   "location": "Atlántida, Uruguay",
+   "coordinates": [-55.760443,-34.780903]
+ },
+ {
+   "location": "Attard, Malta",
+   "coordinates": [14.431835,35.892116]
+ },
+ {
+   "location": "Auckland, New Zealand",
+   "coordinates": [174.762158,-36.850108]
+ },
+ {
+   "location": "Augusta, Georgia",
+   "coordinates": [-82.049197,33.424355]
+ },
+ {
+   "location": "Aurora, Illinois",
+   "coordinates": [-88.313491,41.759517]
+ },
+ {
+   "location": "Austin, Texas",
+   "coordinates": [-97.836521,30.222346]
+ },
+ {
+   "location": "Avondale Estates, Georgia",
+   "coordinates": [-84.267115,33.771362]
+ },
+ {
+   "location": "Baalbek, Lebanon",
+   "coordinates": [36.21104,34.004546]
+ },
+ {
+   "location": "Badlands, South Dakota",
+   "coordinates": [-102.372484,43.803102]
+ },
+ {
+   "location": "Baghdad, Iraq",
+   "coordinates": [44.40088,33.34058]
+ },
+ {
+   "location": "Bagram, Afghanistan",
+   "coordinates": [69.265,34.946111]
+ },
+ {
+   "location": "Baka El Garbia, Israel",
+   "coordinates": [35.039487,32.421485]
+ },
+ {
+   "location": "Bakersfield, California",
+   "coordinates": [-119.068818,35.339382]
+ },
+ {
+   "location": "Bakersfield, Caliornia",
+   "coordinates": [-119.068135,35.338262]
+ },
+ {
+   "location": "Baku, Azerbaijan",
+   "coordinates": [49.882415,40.419605]
+ },
+ {
+   "location": "Baltimore, Maryland",
+   "coordinates": [-76.649533,39.319732]
+ },
+ {
+   "location": "Bamburgh, England",
+   "coordinates": [-1.7099,55.608984]
+ },
+ {
+   "location": "Bangkok, Thailand",
+   "coordinates": [100.595458,13.787626]
+ },
+ {
+   "location": "Bangkok, Thailand",
+   "coordinates": [100.644533,13.881591]
+ },
+ {
+   "location": "Barcelona, Spain",
+   "coordinates": [2.159592,41.400347]
+ },
+ {
+   "location": "Bath, England",
+   "coordinates": [-2.358522,51.380014]
+ },
+ {
+   "location": "Baton Rouge, Louisiana",
+   "coordinates": [-91.14273,30.46297]
+ },
+ {
+   "location": "Battambang, Cambodia",
+   "coordinates": [103.176104,13.089082]
+ },
+ {
+   "location": "Bavaria, Germany",
+   "coordinates": [11.658165,48.768814]
+ },
+ {
+   "location": "Beijing, China",
+   "coordinates": [116.403633,39.945116]
+ },
+ {
+   "location": "Beirut, Lebanon",
+   "coordinates": [35.50102,33.886644]
+ },
+ {
+   "location": "Belfast, Northern Ireland",
+   "coordinates": [-5.929724,54.595258]
+ },
+ {
+   "location": "Belgrade, Serbia",
+   "coordinates": [20.455236,44.777988]
+ },
+ {
+   "location": "Belleville, New Jersey",
+   "coordinates": [-74.1602,40.796977]
+ },
+ {
+   "location": "Bells Beach, Australia",
+   "coordinates": [144.264643,-38.367038]
+ },
+ {
+   "location": "Belmont, Massachusetts",
+   "coordinates": [-71.190908,42.393124]
+ },
+ {
+   "location": "Bend, Oregon",
+   "coordinates": [-121.305032,44.053853]
+ },
+ {
+   "location": "Benghazi, Libya",
+   "coordinates": [20.06667,32.11667]
+ },
+ {
+   "location": "Berkeley, California",
+   "coordinates": [-122.271054,37.873191]
+ },
+ {
+   "location": "Berkshires, Massachusetts",
+   "coordinates": [-73.1496,42.167372]
+ },
+ {
+   "location": "Berlin, Germany",
+   "coordinates": [13.40732,52.52045]
+ },
+ {
+   "location": "Bethesda, Maryland",
+   "coordinates": [-77.118406,38.988276]
+ },
+ {
+   "location": "Big Bear Lake, California",
+   "coordinates": [-116.922834,34.26176]
+ },
+ {
+   "location": "Biloxi, Mississippi",
+   "coordinates": [-88.963018,30.436864]
+ },
+ {
+   "location": "Birkenhead, England",
+   "coordinates": [-3.023021,53.389901]
+ },
+ {
+   "location": "Birmingham, England",
+   "coordinates": [-1.890755,52.48578]
+ },
+ {
+   "location": "Bisbee, Arizona",
+   "coordinates": [-109.912185,31.441228]
+ },
+ {
+   "location": "Biskra, Algeria",
+   "coordinates": [5.730769,34.851083]
+ },
+ {
+   "location": "Blackwater, Mississippi",
+   "coordinates": [-89.596719,34.555336]
+ },
+ {
+   "location": "Blue Rocks, Canada",
+   "coordinates": [-64.24209,44.355827]
+ },
+ {
+   "location": "Bogota, Colombia",
+   "coordinates": [-74.08175,4.60971]
+ },
+ {
+   "location": "Bordeaux, France",
+   "coordinates": [-0.567014,44.859246]
+ },
+ {
+   "location": "Bosphorus, Turkey",
+   "coordinates": [29.041192,41.10055]
+ },
+ {
+   "location": "Boston, Massachusetts",
+   "coordinates": [-71.060144,42.360977]
+ },
+ {
+   "location": "Boston, Massachusetts",
+   "coordinates": [-71.048611,42.355492]
+ },
+ {
+   "location": "Bratislava, Slovakia",
+   "coordinates": [17.14406,48.152189]
+ },
+ {
+   "location": "Breckenridge, Colorado",
+   "coordinates": [-106.046097,39.482623]
+ },
+ {
+   "location": "Bridgeport, Connecticut",
+   "coordinates": [-73.189053,41.196609]
+ },
+ {
+   "location": "Brighton, England",
+   "coordinates": [-0.137942,50.821382]
+ },
+ {
+   "location": "Brisbane, Australia",
+   "coordinates": [153.028858,-27.468409]
+ },
+ {
+   "location": "Bristol, England",
+   "coordinates": [-2.587501,51.453824]
+ },
+ {
+   "location": "Bronx, New York",
+   "coordinates": [-73.867689,40.858808]
+ },
+ {
+   "location": "Brooklyn, New York",
+   "coordinates": [-73.956582,40.652256]
+ },
+ {
+   "location": "Brooklyn, New York",
+   "coordinates": [-73.953456,40.707496]
+ },
+ {
+   "location": "Brunswick, Georgia",
+   "coordinates": [-81.486605,31.154253]
+ },
+ {
+   "location": "Bucharest, Romania",
+   "coordinates": [26.091196,44.446074]
+ },
+ {
+   "location": "Buckinghamshire, England",
+   "coordinates": [-1.017891,52.031508]
+ },
+ {
+   "location": "Budapest, Hungary",
+   "coordinates": [19.092281,47.516581]
+ },
+ {
+   "location": "Budapest, Hungary",
+   "coordinates": [19.111113,47.4987]
+ },
+ {
+   "location": "Buenos Aires, Argentina",
+   "coordinates": [-58.454595,-34.607357]
+ },
+ {
+   "location": "Buffalo, New York",
+   "coordinates": [-78.844532,42.897098]
+ },
+ {
+   "location": "Bulawayo, Zimbabwe",
+   "coordinates": [28.612277,-20.134813]
+ },
+ {
+   "location": "Burlington, Massachusetts",
+   "coordinates": [-71.213717,42.482387]
+ },
+ {
+   "location": "Burney, California",
+   "coordinates": [-121.668895,40.884496]
+ },
+ {
+   "location": "Cabo San Lucas, Mexico",
+   "coordinates": [-109.916776,22.889504]
+ },
+ {
+   "location": "Cadiz, Spain",
+   "coordinates": [-6.285039,36.524655]
+ },
+ {
+   "location": "Cairo, Egypt",
+   "coordinates": [31.24967,30.06263]
+ },
+ {
+   "location": "Calexico, California",
+   "coordinates": [-115.493338,32.684539]
+ },
+ {
+   "location": "Calgary, Canada",
+   "coordinates": [-114.067267,51.03247]
+ },
+ {
+   "location": "Cambridge, Massachusetts",
+   "coordinates": [-71.115987,42.38036]
+ },
+ {
+   "location": "Campeche, Mexico",
+   "coordinates": [-90.195616,18.684911]
+ },
+ {
+   "location": "Canberra, Australia",
+   "coordinates": [149.128998,-35.282001]
+ },
+ {
+   "location": "Canmore, Canada",
+   "coordinates": [-115.33349,51.057769]
+ },
+ {
+   "location": "Cannon Beach, Oregon",
+   "coordinates": [-123.960296,45.891067]
+ },
+ {
+   "location": "Canonsburg, Pennsylvania",
+   "coordinates": [-80.161991,40.270174]
+ },
+ {
+   "location": "Cape Horn, Chile",
+   "coordinates": [-67.291686,-55.980163]
+ },
+ {
+   "location": "Cape Town, South Africa",
+   "coordinates": [18.543149,-33.915366]
+ },
+ {
+   "location": "Cape Town, South Africa",
+   "coordinates": [18.543476,-33.933976]
+ },
+ {
+   "location": "Carboneras, Spain",
+   "coordinates": [-1.893074,36.999559]
+ },
+ {
+   "location": "Cardiff, Wales",
+   "coordinates": [-3.178739,51.481174]
+ },
+ {
+   "location": "Cartagena, Colombia",
+   "coordinates": [-75.504923,10.399853]
+ },
+ {
+   "location": "Cartagena, Spain",
+   "coordinates": [-0.996576,37.624889]
+ },
+ {
+   "location": "Cartersville, Georgia",
+   "coordinates": [-84.799711,34.159523]
+ },
+ {
+   "location": "Casablanca, Morocco",
+   "coordinates": [-7.61138,33.58831]
+ },
+ {
+   "location": "Castle Rock, Oregon",
+   "coordinates": [-123.828819,45.194692]
+ },
+ {
+   "location": "Cavite, Philippines",
+   "coordinates": [120.916111,14.481667]
+ },
+ {
+   "location": "Cayuga Lake, New York",
+   "coordinates": [-76.720843,42.680108]
+ },
+ {
+   "location": "Cedar Falls, Iowa",
+   "coordinates": [-92.450933,42.514578]
+ },
+ {
+   "location": "Cedar Mountain, North Carolina",
+   "coordinates": [-78.376655,37.73086]
+ },
+ {
+   "location": "Cedar Rapids, Iowa",
+   "coordinates": [-91.668687,41.97637]
+ },
+ {
+   "location": "Charleston, South Carolina",
+   "coordinates": [-79.87606,32.727133]
+ },
+ {
+   "location": "Charlotte, North Carolina",
+   "coordinates": [-80.833656,35.204756]
+ },
+ {
+   "location": "Charlottenburg, Germany",
+   "coordinates": [13.303697,52.514867]
+ },
+ {
+   "location": "Chatham, England",
+   "coordinates": [0.529978,51.356083]
+ },
+ {
+   "location": "Chattanooga, Tennessee",
+   "coordinates": [-85.233057,35.0765]
+ },
+ {
+   "location": "Chernobyl, Ukraine",
+   "coordinates": [30.099257,51.388621]
+ },
+ {
+   "location": "Cheyenne, Wyoming",
+   "coordinates": [-104.794871,41.146105]
+ },
+ {
+   "location": "Chiang Mai, Thailand",
+   "coordinates": [98.912178,18.804594]
+ },
+ {
+   "location": "Chicago, Illinois",
+   "coordinates": [-87.66063,41.87897]
+ },
+ {
+   "location": "Chisholm, Minnesota",
+   "coordinates": [-92.879441,47.487451]
+ },
+ {
+   "location": "Chowchilla, California",
+   "coordinates": [-120.247784,37.116827]
+ },
+ {
+   "location": "Christchurch, New Zealand",
+   "coordinates": [172.639476,-43.532113]
+ },
+ {
+   "location": "Cincinnati, Ohio",
+   "coordinates": [-84.515633,39.133727]
+ },
+ {
+   "location": "Clairton, Pennsylvania",
+   "coordinates": [-79.880295,40.299556]
+ },
+ {
+   "location": "Cleveland, Ohio",
+   "coordinates": [-81.65133,41.496551]
+ },
+ {
+   "location": "Clifton, Arizona",
+   "coordinates": [-109.292944,33.029454]
+ },
+ {
+   "location": "Coalwood, West Virginia",
+   "coordinates": [-81.65204,37.387152]
+ },
+ {
+   "location": "Coffeyville, Kansas",
+   "coordinates": [-95.635528,37.040702]
+ },
+ {
+   "location": "Colorado Springs, Colorado",
+   "coordinates": [-104.759775,38.854669]
+ },
+ {
+   "location": "Columbus, Ohio",
+   "coordinates": [-83.020524,39.906305]
+ },
+ {
+   "location": "Concord, California",
+   "coordinates": [-122.002591,37.975962]
+ },
+ {
+   "location": "Concord, North Carolina",
+   "coordinates": [-80.627311,35.40421]
+ },
+ {
+   "location": "Copenhagen, Denmark",
+   "coordinates": [12.574849,55.675684]
+ },
+ {
+   "location": "Copiapó, Chile",
+   "coordinates": [-70.320151,-27.373586]
+ },
+ {
+   "location": "Cottage Grove, Oregon",
+   "coordinates": [-123.053611,43.797966]
+ },
+ {
+   "location": "Cougar, Washington",
+   "coordinates": [-122.299584,46.051438]
+ },
+ {
+   "location": "Covington, Georgia",
+   "coordinates": [-83.849795,33.596218]
+ },
+ {
+   "location": "Crater Lake, Oregon",
+   "coordinates": [-122.109744,42.942934]
+ },
+ {
+   "location": "Crescent, Oklahoma",
+   "coordinates": [-97.593743,35.952063]
+ },
+ {
+   "location": "Crosscut, Texas",
+   "coordinates": [-99.132258,32.02405]
+ },
+ {
+   "location": "Croydon, England",
+   "coordinates": [-0.098378,51.376166]
+ },
+ {
+   "location": "Cuernavaca, Mexico",
+   "coordinates": [-99.224954,18.935064]
+ },
+ {
+   "location": "Curracloe, Ireland",
+   "coordinates": [-6.606355,52.486607]
+ },
+ {
+   "location": "Cut Bank, Montana",
+   "coordinates": [-112.331278,48.633383]
+ },
+ {
+   "location": "Da Nang, Vietnam",
+   "coordinates": [105.396672,21.732568]
+ },
+ {
+   "location": "Daintree, Australia",
+   "coordinates": [145.418549,-16.169905]
+ },
+ {
+   "location": "Dallas, Texas",
+   "coordinates": [-98.326329,31.030974]
+ },
+ {
+   "location": "Daly City, California",
+   "coordinates": [-122.418758,37.706743]
+ },
+ {
+   "location": "Damascus, Syria",
+   "coordinates": [36.297999,33.506883]
+ },
+ {
+   "location": "Dauchau, Germany",
+   "coordinates": [11.468272,48.270124]
+ },
+ {
+   "location": "Davie, Florida",
+   "coordinates": [-80.29244,26.088543]
+ },
+ {
+   "location": "Daytona Beach, Florida",
+   "coordinates": [-81.126041,29.18888]
+ },
+ {
+   "location": "Dead Horse Point State Park, Utah",
+   "coordinates": [-109.741401,38.480527]
+ },
+ {
+   "location": "Dearborn, Michigan",
+   "coordinates": [-83.210148,42.313707]
+ },
+ {
+   "location": "Del Mar, California",
+   "coordinates": [-117.262821,32.958501]
+ },
+ {
+   "location": "Del Monte Forest, California",
+   "coordinates": [-121.948543,36.572441]
+ },
+ {
+   "location": "Delft, Netherlands",
+   "coordinates": [4.360402,52.005926]
+ },
+ {
+   "location": "Delhi, India",
+   "coordinates": [77.195924,28.592039]
+ },
+ {
+   "location": "Denver, Colorado",
+   "coordinates": [-104.949952,39.727716]
+ },
+ {
+   "location": "Des Plaines, Illinois",
+   "coordinates": [-87.89794,42.031132]
+ },
+ {
+   "location": "Detroit, Michigan",
+   "coordinates": [-83.097177,42.382302]
+ },
+ {
+   "location": "Deventer, Netherlands",
+   "coordinates": [6.19571,52.247642]
+ },
+ {
+   "location": "Dhaka, Bangladesh",
+   "coordinates": [90.420011,23.796014]
+ },
+ {
+   "location": "Dien Bien Phu, Vietnam",
+   "coordinates": [103.048714,21.406685]
+ },
+ {
+   "location": "Dix Hills, New York",
+   "coordinates": [-73.336461,40.807494]
+ },
+ {
+   "location": "Donaldsonville, Louisiana",
+   "coordinates": [-90.991837,30.098107]
+ },
+ {
+   "location": "Doncaster, England",
+   "coordinates": [-1.129929,53.712295]
+ },
+ {
+   "location": "Douglas, Isle of Man",
+   "coordinates": [-4.486475,54.151755]
+ },
+ {
+   "location": "Dover, England",
+   "coordinates": [1.313392,51.127812]
+ },
+ {
+   "location": "Drumheller, Canada",
+   "coordinates": [-112.679611,51.437162]
+ },
+ {
+   "location": "Dubai, United Arab Emirates",
+   "coordinates": [55.233232,25.071551]
+ },
+ {
+   "location": "Dublin, Ireland",
+   "coordinates": [-6.281314,53.33928]
+ },
+ {
+   "location": "Dubuque, Iowa",
+   "coordinates": [-90.697997,42.502968]
+ },
+ {
+   "location": "Durham, North Carolina",
+   "coordinates": [-78.937928,36.001174]
+ },
+ {
+   "location": "East Hampton, New York",
+   "coordinates": [-72.194136,40.952043]
+ },
+ {
+   "location": "East London, South Africa",
+   "coordinates": [27.8774,-33.001637]
+ },
+ {
+   "location": "Edgartown, Massachusetts",
+   "coordinates": [-70.53256,41.377932]
+ },
+ {
+   "location": "Edinburgh, Scotland",
+   "coordinates": [-3.275582,55.92826]
+ },
+ {
+   "location": "Edmonton, Canada",
+   "coordinates": [-113.490041,53.541755]
+ },
+ {
+   "location": "El Paso, Texas",
+   "coordinates": [-106.488793,31.818409]
+ },
+ {
+   "location": "Elanora, Australia",
+   "coordinates": [153.451062,-28.134394]
+ },
+ {
+   "location": "Elgin, Illinois",
+   "coordinates": [-88.290742,42.03831]
+ },
+ {
+   "location": "Elmira, New York",
+   "coordinates": [-76.810866,42.094842]
+ },
+ {
+   "location": "Entebbe, Uganda",
+   "coordinates": [32.461462,0.049354]
+ },
+ {
+   "location": "Erie, Pennsylvania",
+   "coordinates": [-80.067173,42.121475]
+ },
+ {
+   "location": "Estes Park, Colorado",
+   "coordinates": [-105.52014,40.378722]
+ },
+ {
+   "location": "Eugene, Oregon",
+   "coordinates": [-123.109228,44.058573]
+ },
+ {
+   "location": "Evanston, Illinois",
+   "coordinates": [-87.685589,42.044381]
+ },
+ {
+   "location": "Fair Haven, Vermont",
+   "coordinates": [-73.266069,43.617345]
+ },
+ {
+   "location": "Fallujah, Iran",
+   "coordinates": [55.245317,31.931398]
+ },
+ {
+   "location": "Flannan Isles, Scotland",
+   "coordinates": [-7.587935,58.287997]
+ },
+ {
+   "location": "Forks, Washington",
+   "coordinates": [-124.387246,47.952369]
+ },
+ {
+   "location": "Fort Chaffee, Arkansas",
+   "coordinates": [-94.205843,35.268449]
+ },
+ {
+   "location": "Fort Jackson, South Carolina",
+   "coordinates": [-81.792341,33.327394]
+ },
+ {
+   "location": "Fort Polk South, Louisiana",
+   "coordinates": [-93.22172,31.042982]
+ },
+ {
+   "location": "Fort Smith, Arkansas",
+   "coordinates": [-94.424316,35.386125]
+ },
+ {
+   "location": "Fort Worth, Texas",
+   "coordinates": [-97.305876,32.781602]
+ },
+ {
+   "location": "Framingham, Massachusetts",
+   "coordinates": [-71.416089,42.273588]
+ },
+ {
+   "location": "Franklin, Tennessee",
+   "coordinates": [-86.84451,35.919624]
+ },
+ {
+   "location": "Fremont, Nebraska",
+   "coordinates": [-96.496807,41.439891]
+ },
+ {
+   "location": "Galena, Illinois",
+   "coordinates": [-90.430203,42.421621]
+ },
+ {
+   "location": "Galesburg, Illinois",
+   "coordinates": [-90.364091,40.951272]
+ },
+ {
+   "location": "Gary, Indiana",
+   "coordinates": [-87.346786,41.589885]
+ },
+ {
+   "location": "George Town, Malaysia",
+   "coordinates": [100.306599,5.425874]
+ },
+ {
+   "location": "Gettysburg, Pennsylvania",
+   "coordinates": [-77.229341,39.818613]
+ },
+ {
+   "location": "Ghost Ranch, New Mexico",
+   "coordinates": [-106.481968,36.313706]
+ },
+ {
+   "location": "Giove, Italy",
+   "coordinates": [12.329901,42.509894]
+ },
+ {
+   "location": "Girona, Spain",
+   "coordinates": [2.821978,41.975981]
+ },
+ {
+   "location": "Giza, Egypt",
+   "coordinates": [31.216667,30.016667]
+ },
+ {
+   "location": "Glasgow, Scotland",
+   "coordinates": [-4.268234,55.860766]
+ },
+ {
+   "location": "Glasgow, Scotland",
+   "coordinates": [-4.252029,55.866423]
+ },
+ {
+   "location": "Glen Cove, New York",
+   "coordinates": [-73.627467,40.87507]
+ },
+ {
+   "location": "Granada, Spain",
+   "coordinates": [-3.062982,37.181741]
+ },
+ {
+   "location": "Grand Canyon, Arizona",
+   "coordinates": [-112.138448,36.11534]
+ },
+ {
+   "location": "Grand Rapids, Michigan",
+   "coordinates": [-85.651851,42.948547]
+ },
+ {
+   "location": "Great Falls, Montana",
+   "coordinates": [-111.296199,47.506372]
+ },
+ {
+   "location": "Green Cove Springs, Florida",
+   "coordinates": [-81.683794,29.992104]
+ },
+ {
+   "location": "Greenville, Texas",
+   "coordinates": [-96.116741,33.117132]
+ },
+ {
+   "location": "Grindavik, Iceland",
+   "coordinates": [-22.434126,63.836656]
+ },
+ {
+   "location": "Grosse Point, Michigan",
+   "coordinates": [-82.911118,42.389945]
+ },
+ {
+   "location": "Guadalajara, Mexico",
+   "coordinates": [-103.160431,20.342237]
+ },
+ {
+   "location": "Guadalcanal, Solomon Islands",
+   "coordinates": [159.984166,-9.48134]
+ },
+ {
+   "location": "Guadalupe-Nipomo Dunes, California",
+   "coordinates": [-120.629501,35.055127]
+ },
+ {
+   "location": "Guantánamo Bay, Cuba",
+   "coordinates": [-75.096762,19.902153]
+ },
+ {
+   "location": "Guelph, Canada",
+   "coordinates": [-80.236799,43.546728]
+ },
+ {
+   "location": "Guilford, Connecticut",
+   "coordinates": [-72.702393,41.328622]
+ },
+ {
+   "location": "Gunnison, Colorado",
+   "coordinates": [-106.928596,38.546022]
+ },
+ {
+   "location": "Haines, Alaska",
+   "coordinates": [-135.466557,59.248109]
+ },
+ {
+   "location": "Halifax, Canada",
+   "coordinates": [-63.63496,44.652762]
+ },
+ {
+   "location": "Hamburg, Germany",
+   "coordinates": [10.020514,53.566239]
+ },
+ {
+   "location": "Hamilton Air Force Base, California",
+   "coordinates": [-122.5125,38.057778]
+ },
+ {
+   "location": "Hamilton, Canada",
+   "coordinates": [-79.955813,43.247722]
+ },
+ {
+   "location": "Hammond, Indiana",
+   "coordinates": [-87.497065,41.601897]
+ },
+ {
+   "location": "Hammond, Louisiana",
+   "coordinates": [-90.470576,30.504311]
+ },
+ {
+   "location": "Hampton, Virginia",
+   "coordinates": [-76.362103,37.085298]
+ },
+ {
+   "location": "Hamptons, New York",
+   "coordinates": [-72.299609,40.966533]
+ },
+ {
+   "location": "Harare, Zimbabwe",
+   "coordinates": [31.053413,-17.832276]
+ },
+ {
+   "location": "Hårga, Sweden",
+   "coordinates": [16.555302,61.268554]
+ },
+ {
+   "location": "Harrisburg, Pennsylvania",
+   "coordinates": [-76.876665,40.284214]
+ },
+ {
+   "location": "Harrogate, England",
+   "coordinates": [-1.54179,53.991535]
+ },
+ {
+   "location": "Hartford, Connecticut",
+   "coordinates": [-72.68558,41.76056]
+ },
+ {
+   "location": "Hauvers, Maryland",
+   "coordinates": [-77.465895,39.647521]
+ },
+ {
+   "location": "Havana, Cuba",
+   "coordinates": [-77.967722,21.329612]
+ },
+ {
+   "location": "Hazlehurst, Mississippi",
+   "coordinates": [-90.394827,31.865483]
+ },
+ {
+   "location": "Helena, Arkansas",
+   "coordinates": [-90.613075,34.530736]
+ },
+ {
+   "location": "Helena, Montana",
+   "coordinates": [-112.026854,46.593101]
+ },
+ {
+   "location": "Helsingør, Denmark",
+   "coordinates": [12.620833,56.038889]
+ },
+ {
+   "location": "Helsinki, Finland",
+   "coordinates": [24.99935,60.20787]
+ },
+ {
+   "location": "Hertfordshire, England",
+   "coordinates": [-0.205175,51.821754]
+ },
+ {
+   "location": "Ho Chi Minh City, Vietnam",
+   "coordinates": [106.66667,10.75]
+ },
+ {
+   "location": "Ho-Ho-Kus, New Jersey",
+   "coordinates": [-74.09812,41.000165]
+ },
+ {
+   "location": "Höfn, Iceland",
+   "coordinates": [-51.674129,64.191787]
+ },
+ {
+   "location": "Holkham, England",
+   "coordinates": [0.804994,52.945371]
+ },
+ {
+   "location": "Hong Kong, China",
+   "coordinates": [114.141387,22.42486]
+ },
+ {
+   "location": "Honolulu, Hawaii",
+   "coordinates": [-157.810404,21.320983]
+ },
+ {
+   "location": "Houston, Texas",
+   "coordinates": [-95.361416,29.784753]
+ },
+ {
+   "location": "Howe, Texas",
+   "coordinates": [-96.614264,33.51539]
+ },
+ {
+   "location": "Hull, England",
+   "coordinates": [-0.335046,53.774016]
+ },
+ {
+   "location": "Humboldt, Nebraska",
+   "coordinates": [-95.94387,40.16671]
+ },
+ {
+   "location": "Huntington Lake, California",
+   "coordinates": [-119.226853,37.233686]
+ },
+ {
+   "location": "Ibiza, Spain",
+   "coordinates": [1.42793,38.910082]
+ },
+ {
+   "location": "Imperial, California",
+   "coordinates": [-115.41427,33.048821]
+ },
+ {
+   "location": "Indianapolis, Indiana",
+   "coordinates": [-86.143415,39.785871]
+ },
+ {
+   "location": "Instanbul, Turkey",
+   "coordinates": [29.041192,41.10055]
+ },
+ {
+   "location": "Intercourse, Pennsylvania",
+   "coordinates": [-76.10738,40.038318]
+ },
+ {
+   "location": "Islamabad, Pakistan",
+   "coordinates": [73.04329,33.72148]
+ },
+ {
+   "location": "Istanbul, Turkey",
+   "coordinates": [29.029181,41.062502]
+ },
+ {
+   "location": "Iwo Jima, Japan",
+   "coordinates": [138.441899,36.13793]
+ },
+ {
+   "location": "Jackson, Georgia",
+   "coordinates": [-83.964973,33.29216]
+ },
+ {
+   "location": "Jaghbub, Libya",
+   "coordinates": [24.516699,29.743177]
+ },
+ {
+   "location": "Jakarta, Indonesia",
+   "coordinates": [106.84427,-6.215525]
+ },
+ {
+   "location": "Jasper, Missouri",
+   "coordinates": [-94.301952,37.334879]
+ },
+ {
+   "location": "Jekyll Island, Georgia",
+   "coordinates": [-81.411035,31.073317]
+ },
+ {
+   "location": "Jerusalem, Israel",
+   "coordinates": [35.214083,31.761051]
+ },
+ {
+   "location": "Johannesburg, South Africa",
+   "coordinates": [28.056562,-26.181716]
+ },
+ {
+   "location": "Jökulsárlón, Iceland",
+   "coordinates": [-16.277776,64.073019]
+ },
+ {
+   "location": "Juárez, Mexico",
+   "coordinates": [-106.420793,31.673689]
+ },
+ {
+   "location": "Jungfrau, Switzerland",
+   "coordinates": [7.962682,46.537991]
+ },
+ {
+   "location": "Kabul, Afghanistan",
+   "coordinates": [69.206457,34.565211]
+ },
+ {
+   "location": "Kairouan, Tunisia",
+   "coordinates": [9.869108,35.596841]
+ },
+ {
+   "location": "Kalkara, Malta",
+   "coordinates": [14.526127,35.89729]
+ },
+ {
+   "location": "Kandahar, Afghanistan",
+   "coordinates": [65.760468,31.63287]
+ },
+ {
+   "location": "Kaneohe, Hawaii",
+   "coordinates": [-157.837411,21.520438]
+ },
+ {
+   "location": "Kansas City, Missouri",
+   "coordinates": [-94.601163,39.055989]
+ },
+ {
+   "location": "Karachi, Pakistan",
+   "coordinates": [67.238928,24.984695]
+ },
+ {
+   "location": "Karuizawa, Japan",
+   "coordinates": [138.596029,36.353043]
+ },
+ {
+   "location": "Kashgar, China",
+   "coordinates": [76.189533,39.521902]
+ },
+ {
+   "location": "Kearney, Missouri",
+   "coordinates": [-94.358011,39.356596]
+ },
+ {
+   "location": "Kemah, Texas",
+   "coordinates": [-95.018752,29.531634]
+ },
+ {
+   "location": "Kenosha, Wisconsin",
+   "coordinates": [-87.841871,42.584327]
+ },
+ {
+   "location": "Kent, England",
+   "coordinates": [0.529978,51.356083]
+ },
+ {
+   "location": "Key West, Florida",
+   "coordinates": [-81.779512,24.557768]
+ },
+ {
+   "location": "Khartoum, Sudan",
+   "coordinates": [32.562987,15.51509]
+ },
+ {
+   "location": "Kiev, Ukraine",
+   "coordinates": [30.431971,50.469863]
+ },
+ {
+   "location": "Kildare, Ireland",
+   "coordinates": [-6.902962,53.161234]
+ },
+ {
+   "location": "King Abdullah Economic City, Saudi Arabia",
+   "coordinates": [39.083333,22.4]
+ },
+ {
+   "location": "Kingman, Arizona",
+   "coordinates": [-114.008016,35.211786]
+ },
+ {
+   "location": "Kingston, Jamaica",
+   "coordinates": [-76.800316,18.014985]
+ },
+ {
+   "location": "Kingston, New York",
+   "coordinates": [-73.996081,41.930832]
+ },
+ {
+   "location": "Kinshasa, Democratic Republic of the Congo",
+   "coordinates": [15.304878,-4.391706]
+ },
+ {
+   "location": "Kittanning, Pennsylvania",
+   "coordinates": [-79.523597,40.823236]
+ },
+ {
+   "location": "Klondike, Canada",
+   "coordinates": [-139.435836,64.049973]
+ },
+ {
+   "location": "Knoxville, Tennessee",
+   "coordinates": [-83.953957,35.982588]
+ },
+ {
+   "location": "Kodiak, Alaska",
+   "coordinates": [-152.502225,57.741198]
+ },
+ {
+   "location": "Kraków, Poland",
+   "coordinates": [20.009672,50.059467]
+ },
+ {
+   "location": "Kyoto, Japan",
+   "coordinates": [138.441899,36.13793]
+ },
+ {
+   "location": "La Cañada Flintridge, California",
+   "coordinates": [-118.25703,34.05513]
+ },
+ {
+   "location": "La Joyita, Mexico",
+   "coordinates": [-99.116799,19.466099]
+ },
+ {
+   "location": "La Paz, Bolivia",
+   "coordinates": [-68.089404,-16.502267]
+ },
+ {
+   "location": "Lagos, Nigeria",
+   "coordinates": [3.29768,6.543261]
+ },
+ {
+   "location": "Laguna Beach, California",
+   "coordinates": [-117.764362,33.542638]
+ },
+ {
+   "location": "Lahaina, Hawaii",
+   "coordinates": [-156.672249,20.890988]
+ },
+ {
+   "location": "Lahore, Pakistan",
+   "coordinates": [74.34361,31.54972]
+ },
+ {
+   "location": "Lake Arrowhead, California",
+   "coordinates": [-117.188909,34.248965]
+ },
+ {
+   "location": "Lake George, New York",
+   "coordinates": [-73.711259,43.419844]
+ },
+ {
+   "location": "Lake Tahoe, Nevada",
+   "coordinates": [-120.033988,39.125219]
+ },
+ {
+   "location": "Lancaster, Pennsylvania",
+   "coordinates": [-76.304202,40.038111]
+ },
+ {
+   "location": "Lansing, Kansas",
+   "coordinates": [-94.892605,39.249913]
+ },
+ {
+   "location": "LaPlace, Louisiana",
+   "coordinates": [-90.472145,30.074909]
+ },
+ {
+   "location": "Laplace, Louisiana",
+   "coordinates": [-90.472145,30.074909]
+ },
+ {
+   "location": "Las Animas, Colorado",
+   "coordinates": [-103.224184,38.066743]
+ },
+ {
+   "location": "Las Vegas, Nevada",
+   "coordinates": [-115.279104,36.190364]
+ },
+ {
+   "location": "Le Mans, France",
+   "coordinates": [0.2029,47.989]
+ },
+ {
+   "location": "Leicestershire, England",
+   "coordinates": [-0.9275,52.672084]
+ },
+ {
+   "location": "Lexington, Kentucky",
+   "coordinates": [-84.450972,38.046634]
+ },
+ {
+   "location": "Lexington, Massachusetts",
+   "coordinates": [-71.228867,42.441726]
+ },
+ {
+   "location": "Lhasa, Tibet",
+   "coordinates": [91.169522,29.67266]
+ },
+ {
+   "location": "Liberty, New York",
+   "coordinates": [-74.7279,41.79]
+ },
+ {
+   "location": "Lille, France",
+   "coordinates": [3.050422,50.62834]
+ },
+ {
+   "location": "Lima, Peru",
+   "coordinates": [-77.043405,-12.048764]
+ },
+ {
+   "location": "Lincoln, England",
+   "coordinates": [-0.540619,53.230438]
+ },
+ {
+   "location": "Lincoln, Nebraska",
+   "coordinates": [-96.675471,40.812763]
+ },
+ {
+   "location": "Lincolnshire, England",
+   "coordinates": [-0.671,52.8806]
+ },
+ {
+   "location": "Lisbon, Portugal",
+   "coordinates": [-9.138919,38.721377]
+ },
+ {
+   "location": "Little Rock, Arkansas",
+   "coordinates": [-92.31012,34.723138]
+ },
+ {
+   "location": "Liverpool, England",
+   "coordinates": [-2.936434,53.399369]
+ },
+ {
+   "location": "Liverpool, England",
+   "coordinates": [-2.935346,53.402639]
+ },
+ {
+   "location": "Loch Ness, Scotland",
+   "coordinates": [-4.435084,57.316622]
+ },
+ {
+   "location": "London, England",
+   "coordinates": [-0.099076,51.509648]
+ },
+ {
+   "location": "London, England",
+   "coordinates": [-0.127409,51.507301]
+ },
+ {
+   "location": "Londonderry, Ireland",
+   "coordinates": [-7.308606,54.996458]
+ },
+ {
+   "location": "Long Beach, California",
+   "coordinates": [-118.179115,33.790773]
+ },
+ {
+   "location": "Los Angeles, California",
+   "coordinates": [-118.25703,34.05513]
+ },
+ {
+   "location": "Louisville, Kentucky",
+   "coordinates": [-85.643856,38.206819]
+ },
+ {
+   "location": "Lufkin, Texas",
+   "coordinates": [-94.730595,31.332782]
+ },
+ {
+   "location": "Luleå, Sweden",
+   "coordinates": [22.156486,65.584625]
+ },
+ {
+   "location": "Luqa, Malta",
+   "coordinates": [14.483365,35.854235]
+ },
+ {
+   "location": "Lyon, France",
+   "coordinates": [4.828579,45.762396]
+ },
+ {
+   "location": "Macau, China",
+   "coordinates": [113.545604,22.200296]
+ },
+ {
+   "location": "Madison, Wisconsin",
+   "coordinates": [-89.413196,43.077235]
+ },
+ {
+   "location": "Madras, Oregon",
+   "coordinates": [-121.123267,44.639419]
+ },
+ {
+   "location": "Madrid, Spain",
+   "coordinates": [-3.464618,40.09095]
+ },
+ {
+   "location": "Malden, Massachusetts",
+   "coordinates": [-71.063631,42.419333]
+ },
+ {
+   "location": "Mallorca, Spain",
+   "coordinates": [-3.464618,40.09095]
+ },
+ {
+   "location": "Mammoth Lakes, California",
+   "coordinates": [-119.026791,37.651251]
+ },
+ {
+   "location": "Managua, Nicaragua",
+   "coordinates": [-86.258806,12.105371]
+ },
+ {
+   "location": "Manchester-by-the-Sea, Massachusetts",
+   "coordinates": [-70.78645,42.564132]
+ },
+ {
+   "location": "Manchester, England",
+   "coordinates": [-2.216665,53.462761]
+ },
+ {
+   "location": "Manila, Philippines",
+   "coordinates": [120.980119,14.555292]
+ },
+ {
+   "location": "Manimajra Fort of Chandigarh, India",
+   "coordinates": [76.66457,30.685941]
+ },
+ {
+   "location": "Mansfield, Ohio",
+   "coordinates": [-82.50247,40.784134]
+ },
+ {
+   "location": "Maranello, Italy",
+   "coordinates": [10.869156,44.531059]
+ },
+ {
+   "location": "Marietta, Georgia",
+   "coordinates": [-84.533791,33.952073]
+ },
+ {
+   "location": "Marrakech, Morocco",
+   "coordinates": [-8.006146,31.633376]
+ },
+ {
+   "location": "Marrakesh, Morocco",
+   "coordinates": [-8.006146,31.633376]
+ },
+ {
+   "location": "Marseilles, France",
+   "coordinates": [5.381623,43.293001]
+ },
+ {
+   "location": "Martha's Vineyard, Massachusetts",
+   "coordinates": [-71.531484,42.358752]
+ },
+ {
+   "location": "Massapequa, New York",
+   "coordinates": [-73.471461,40.672073]
+ },
+ {
+   "location": "Massena, New York",
+   "coordinates": [-74.890405,44.928738]
+ },
+ {
+   "location": "Matera, Italy",
+   "coordinates": [16.598739,40.669234]
+ },
+ {
+   "location": "Matmata, Tunisia",
+   "coordinates": [9.767234,33.450581]
+ },
+ {
+   "location": "Mazar-i Sharif, Afghanistan",
+   "coordinates": [67.123201,36.709266]
+ },
+ {
+   "location": "Mdina, Malta",
+   "coordinates": [14.40571,35.887564]
+ },
+ {
+   "location": "Melbourne, Australia",
+   "coordinates": [144.960739,-37.814954]
+ },
+ {
+   "location": "Melville, New York",
+   "coordinates": [-73.409387,40.774373]
+ },
+ {
+   "location": "Memphis, Tennessee",
+   "coordinates": [-89.996229,35.106397]
+ },
+ {
+   "location": "Mendocino, California",
+   "coordinates": [-123.789057,39.313101]
+ },
+ {
+   "location": "Mexico City, Mexico",
+   "coordinates": [-99.150344,19.371422]
+ },
+ {
+   "location": "Miami Beach, Florida",
+   "coordinates": [-80.119727,25.82988]
+ },
+ {
+   "location": "Miami, Florida",
+   "coordinates": [-80.210268,25.766368]
+ },
+ {
+   "location": "Middlesex, Virginia",
+   "coordinates": [-75.809953,37.584373]
+ },
+ {
+   "location": "Midway Atoll",
+   "coordinates": [-177.380194,28.208275]
+ },
+ {
+   "location": "Midway, Utah",
+   "coordinates": [-111.474387,40.516662]
+ },
+ {
+   "location": "Milan, Italy",
+   "coordinates": [9.183225,45.477174]
+ },
+ {
+   "location": "Milwaukee, Wisconsin",
+   "coordinates": [-87.974,43.030016]
+ },
+ {
+   "location": "Minneapolis, Minnesota",
+   "coordinates": [-93.266563,44.96313]
+ },
+ {
+   "location": "Miramar, California",
+   "coordinates": [-117.157726,32.885916]
+ },
+ {
+   "location": "Mobile, Alabama",
+   "coordinates": [-88.125876,30.665175]
+ },
+ {
+   "location": "Mogadishu, Somalia",
+   "coordinates": [45.329321,2.051651]
+ },
+ {
+   "location": "Mokra Gora, Serbia",
+   "coordinates": [19.458449,43.848706]
+ },
+ {
+   "location": "Mombasa, Kenya",
+   "coordinates": [39.669073,-3.999937]
+ },
+ {
+   "location": "Moneta, Virginia",
+   "coordinates": [-79.63974,37.049077]
+ },
+ {
+   "location": "Monrovia, California",
+   "coordinates": [-117.998616,34.163011]
+ },
+ {
+   "location": "Montauk, New York",
+   "coordinates": [-71.857919,41.071879]
+ },
+ {
+   "location": "Montclair, New Jersey",
+   "coordinates": [-74.211243,40.824925]
+ },
+ {
+   "location": "Monte Carlo, Monaco",
+   "coordinates": [7.427687,43.739719]
+ },
+ {
+   "location": "Monterey, California",
+   "coordinates": [-121.883464,36.591741]
+ },
+ {
+   "location": "Montreal, Canada",
+   "coordinates": [-73.586295,45.572744]
+ },
+ {
+   "location": "Montreuil-sur-Mer, France",
+   "coordinates": [1.75878,50.454141]
+ },
+ {
+   "location": "Montrichard, France",
+   "coordinates": [1.18339,47.342061]
+ },
+ {
+   "location": "Moscow, Russia",
+   "coordinates": [37.418392,55.590062]
+ },
+ {
+   "location": "Mosul, Iraq",
+   "coordinates": [43.14346,36.357506]
+ },
+ {
+   "location": "Mount Fuji, Japan",
+   "coordinates": [138.727192,35.360204]
+ },
+ {
+   "location": "Mount Melbourne, Antarctica",
+   "coordinates": [164.699957,-74.349941]
+ },
+ {
+   "location": "Mount Taranaki, New Zealand",
+   "coordinates": [174.063099,-39.297101]
+ },
+ {
+   "location": "Mountain View, California",
+   "coordinates": [-122.083156,37.403649]
+ },
+ {
+   "location": "Mpumalanga, South Africa",
+   "coordinates": [30.995489,-25.942382]
+ },
+ {
+   "location": "Mt. Hood, Oregon",
+   "coordinates": [-121.569348,45.535484]
+ },
+ {
+   "location": "Mumbai, India",
+   "coordinates": [72.849255,19.007595]
+ },
+ {
+   "location": "Munich, Germany",
+   "coordinates": [11.537698,48.14879]
+ },
+ {
+   "location": "Munich, Germany",
+   "coordinates": [11.544467,48.152126]
+ },
+ {
+   "location": "Murcia, Spain",
+   "coordinates": [-3.464618,40.09095]
+ },
+ {
+   "location": "Murmansk, Russia",
+   "coordinates": [33.078557,68.967003]
+ },
+ {
+   "location": "Nagasaki, Japan",
+   "coordinates": [129.774192,32.842612]
+ },
+ {
+   "location": "Nairobi, Kenya",
+   "coordinates": [36.81667,-1.28333]
+ },
+ {
+   "location": "Nantucket, Massachusetts",
+   "coordinates": [-70.061176,41.272065]
+ },
+ {
+   "location": "Naples, Italy",
+   "coordinates": [14.237375,40.862838]
+ },
+ {
+   "location": "Nashville, Tennessee",
+   "coordinates": [-86.834683,36.236907]
+ },
+ {
+   "location": "Natchez, Mississippi",
+   "coordinates": [-91.387628,31.549799]
+ },
+ {
+   "location": "Nelson, Minnesota",
+   "coordinates": [-95.265252,45.886506]
+ },
+ {
+   "location": "Nemocón, Colombia",
+   "coordinates": [-73.877936,5.066208]
+ },
+ {
+   "location": "New Haven, Connecticut",
+   "coordinates": [-72.923739,41.314105]
+ },
+ {
+   "location": "New Orleans, Louisiana",
+   "coordinates": [-89.889852,30.056708]
+ },
+ {
+   "location": "New South Wales, Australia",
+   "coordinates": [146.586903,-32.494981]
+ },
+ {
+   "location": "New York, New York",
+   "coordinates": [-73.983447,40.757538]
+ },
+ {
+   "location": "Newark, New Jersey",
+   "coordinates": [-74.175535,40.722937]
+ },
+ {
+   "location": "Newcastle upon Tyne, England",
+   "coordinates": [-1.61908,54.977337]
+ },
+ {
+   "location": "Newport Beach, California",
+   "coordinates": [-117.858908,33.609549]
+ },
+ {
+   "location": "Newport, Rhode Island",
+   "coordinates": [-71.313083,41.47708]
+ },
+ {
+   "location": "Nice, France",
+   "coordinates": [7.240114,43.716338]
+ },
+ {
+   "location": "Nightmute, Alaska",
+   "coordinates": [-164.803108,60.494572]
+ },
+ {
+   "location": "Niota, Illinois",
+   "coordinates": [-91.287901,40.617341]
+ },
+ {
+   "location": "Nome, Alaska",
+   "coordinates": [-165.313501,65.46799]
+ },
+ {
+   "location": "Northampton, Massachusetts",
+   "coordinates": [-72.640262,42.315819]
+ },
+ {
+   "location": "Norton, Massachusetts",
+   "coordinates": [-71.180036,41.968061]
+ },
+ {
+   "location": "Nur-Sultan, Kazakhstan",
+   "coordinates": [71.446366,51.125693]
+ },
+ {
+   "location": "Nuuk, Greenland",
+   "coordinates": [-51.674493,64.191763]
+ },
+ {
+   "location": "Oahu, Hawaii",
+   "coordinates": [-157.990641,21.469639]
+ },
+ {
+   "location": "Oakland, California",
+   "coordinates": [-122.197811,37.785199]
+ },
+ {
+   "location": "Oaxaca City, Mexico",
+   "coordinates": [-96.71633,17.06752]
+ },
+ {
+   "location": "Okinawa, Japan",
+   "coordinates": [128.04294,26.578995]
+ },
+ {
+   "location": "Oklahoma City, Oklahoma",
+   "coordinates": [-97.549379,35.450035]
+ },
+ {
+   "location": "Omaha, Nebraska",
+   "coordinates": [-96.059282,41.259263]
+ },
+ {
+   "location": "Ontario, California",
+   "coordinates": [-117.604914,34.03134]
+ },
+ {
+   "location": "Orange, California",
+   "coordinates": [-117.831676,33.807329]
+ },
+ {
+   "location": "Orcival, France",
+   "coordinates": [2.835713,45.654702]
+ },
+ {
+   "location": "Orlando, Florida",
+   "coordinates": [-81.293691,28.41959]
+ },
+ {
+   "location": "Orogrande, New Mexico",
+   "coordinates": [-106.092008,32.376629]
+ },
+ {
+   "location": "Oslo, Norway",
+   "coordinates": [10.775449,59.993535]
+ },
+ {
+   "location": "Ossining, New York",
+   "coordinates": [-73.854969,41.165913]
+ },
+ {
+   "location": "Ottawa, Canada",
+   "coordinates": [-75.734373,45.251748]
+ },
+ {
+   "location": "Ouarzazate, Morocco",
+   "coordinates": [-6.936366,30.938462]
+ },
+ {
+   "location": "Padua, Italy",
+   "coordinates": [11.869614,45.415039]
+ },
+ {
+   "location": "Palm Springs, California",
+   "coordinates": [-116.509711,33.822338]
+ },
+ {
+   "location": "Palo Alto, California",
+   "coordinates": [-122.126769,37.431082]
+ },
+ {
+   "location": "Palos Verdes, California",
+   "coordinates": [-118.356756,33.748813]
+ },
+ {
+   "location": "Paradise, Pennsylvania",
+   "coordinates": [-76.124066,40.006619]
+ },
+ {
+   "location": "Paris, France",
+   "coordinates": [2.331839,48.859116]
+ },
+ {
+   "location": "Park City, Utah",
+   "coordinates": [-111.496653,40.64482]
+ },
+ {
+   "location": "Parkersburg, West Virginia",
+   "coordinates": [-81.551189,39.263729]
+ },
+ {
+   "location": "Parma Heights, Ohio",
+   "coordinates": [-81.764235,41.385385]
+ },
+ {
+   "location": "Pasadena, California",
+   "coordinates": [-118.118291,34.138132]
+ },
+ {
+   "location": "Paterson, New Jersey",
+   "coordinates": [-74.161021,40.913833]
+ },
+ {
+   "location": "Patrick Air Force Base, Florida",
+   "coordinates": [-80.607726,28.233986]
+ },
+ {
+   "location": "Pedraza, Spain",
+   "coordinates": [-3.811294,41.131286]
+ },
+ {
+   "location": "Pembroke, Virginia",
+   "coordinates": [-80.536902,37.355195]
+ },
+ {
+   "location": "Penang, Malaysia",
+   "coordinates": [100.47694,5.340267]
+ },
+ {
+   "location": "Peoria, Illinois",
+   "coordinates": [-89.608313,40.746975]
+ },
+ {
+   "location": "Perak, Malaysia",
+   "coordinates": [101.154783,4.626283]
+ },
+ {
+   "location": "Peterborough, Canada",
+   "coordinates": [-78.319895,44.310864]
+ },
+ {
+   "location": "Petros, Tennessee",
+   "coordinates": [-84.442023,36.095922]
+ },
+ {
+   "location": "Philadelphia, Pennsylvania",
+   "coordinates": [-75.168428,39.990821]
+ },
+ {
+   "location": "Phnom Penh, Cambodia",
+   "coordinates": [104.877825,11.569602]
+ },
+ {
+   "location": "Phoenix, Arizona",
+   "coordinates": [-112.173249,33.563703]
+ },
+ {
+   "location": "Phuket, Thailand",
+   "coordinates": [98.418021,7.883884]
+ },
+ {
+   "location": "Pilot Knob, California",
+   "coordinates": [-114.74989,32.731451]
+ },
+ {
+   "location": "Pittsburgh, Pennsylvania",
+   "coordinates": [-79.936305,40.450509]
+ },
+ {
+   "location": "Pittsfield, Massachusetts",
+   "coordinates": [-73.260516,42.451772]
+ },
+ {
+   "location": "Plano, Texas",
+   "coordinates": [-96.756197,33.053761]
+ },
+ {
+   "location": "Plattsburgh, New York",
+   "coordinates": [-73.459994,44.695655]
+ },
+ {
+   "location": "Point Mugu, California",
+   "coordinates": [-119.060978,34.085562]
+ },
+ {
+   "location": "Point Pleasant, New Jersey",
+   "coordinates": [-74.070825,40.077721]
+ },
+ {
+   "location": "Point Pleasant, West Virginia",
+   "coordinates": [-82.132344,38.855725]
+ },
+ {
+   "location": "Port Sudan, Sudan",
+   "coordinates": [37.234278,19.895654]
+ },
+ {
+   "location": "Port Valdez, Alaska",
+   "coordinates": [-146.497752,61.077089]
+ },
+ {
+   "location": "Port-au-Prince, Haiti",
+   "coordinates": [-72.322741,18.552346]
+ },
+ {
+   "location": "Portland, Maine",
+   "coordinates": [-96.999668,39.715956]
+ },
+ {
+   "location": "Portland, Oregon",
+   "coordinates": [-122.653051,45.537914]
+ },
+ {
+   "location": "Prague, Czech Republic",
+   "coordinates": [14.460249,50.06694]
+ },
+ {
+   "location": "Prescott, Arizona",
+   "coordinates": [-112.457992,34.583427]
+ },
+ {
+   "location": "Pretoria, South Africa",
+   "coordinates": [28.22949,-25.732405]
+ },
+ {
+   "location": "Princeton, New Jersey",
+   "coordinates": [-74.666068,40.359019]
+ },
+ {
+   "location": "Providence, Rhode Island",
+   "coordinates": [-71.415433,41.822192]
+ },
+ {
+   "location": "Pune, India",
+   "coordinates": [73.840523,18.54465]
+ },
+ {
+   "location": "Punxataugny, Pennsylvania",
+   "coordinates": [-77.838617,40.860198]
+ },
+ {
+   "location": "Pyongyang, North Korea",
+   "coordinates": [126.699424,40.248916]
+ },
+ {
+   "location": "Quebec City, Canada",
+   "coordinates": [-71.276271,46.855987]
+ },
+ {
+   "location": "Queens, New York",
+   "coordinates": [-73.804593,40.719663]
+ },
+ {
+   "location": "Quito, Ecuador",
+   "coordinates": [-78.469685,-0.170801]
+ },
+ {
+   "location": "Rabat, Morocco",
+   "coordinates": [-6.84353,33.96295]
+ },
+ {
+   "location": "Ramstein-Miesenbach, Germany",
+   "coordinates": [7.597199,49.439794]
+ },
+ {
+   "location": "Rasnov, Romania",
+   "coordinates": [25.452665,45.579716]
+ },
+ {
+   "location": "Red Bank, New Jersey",
+   "coordinates": [-74.069317,40.347153]
+ },
+ {
+   "location": "Redlands, California",
+   "coordinates": [-117.17137,34.053704]
+ },
+ {
+   "location": "Reno, Nevada",
+   "coordinates": [-119.804159,39.547788]
+ },
+ {
+   "location": "Revere, Massachusetts",
+   "coordinates": [-70.985697,42.420199]
+ },
+ {
+   "location": "Reykjavik, Iceland",
+   "coordinates": [-21.895019,64.135124]
+ },
+ {
+   "location": "Richmond, California",
+   "coordinates": [-122.358174,37.911401]
+ },
+ {
+   "location": "Richmond, Virginia",
+   "coordinates": [-77.473927,37.519231]
+ },
+ {
+   "location": "Ridgway, Colorado",
+   "coordinates": [-107.756543,38.155819]
+ },
+ {
+   "location": "Riga, Latvia",
+   "coordinates": [24.129843,56.975887]
+ },
+ {
+   "location": "Rio de Janeiro, Brazil",
+   "coordinates": [-43.43847,-22.927166]
+ },
+ {
+   "location": "Riverton, Wyoming",
+   "coordinates": [-107.55153,43.001645]
+ },
+ {
+   "location": "Riyadh, Saudi Arabia",
+   "coordinates": [46.844603,24.724821]
+ },
+ {
+   "location": "Roanoke Rapids, North Carolina",
+   "coordinates": [-77.650682,36.448626]
+ },
+ {
+   "location": "Rochester, Michigan",
+   "coordinates": [-83.121551,42.685822]
+ },
+ {
+   "location": "Rochester, New York",
+   "coordinates": [-77.604481,43.159681]
+ },
+ {
+   "location": "Rockport, Massachusetts",
+   "coordinates": [-70.630721,42.654232]
+ },
+ {
+   "location": "Rome, Georgia",
+   "coordinates": [-85.18913,34.289901]
+ },
+ {
+   "location": "Rome, Italy",
+   "coordinates": [12.52809,41.878243]
+ },
+ {
+   "location": "Rosendale, New York",
+   "coordinates": [-74.081112,41.844118]
+ },
+ {
+   "location": "Ross Island, Antarctica",
+   "coordinates": [166.707301,-77.841834]
+ },
+ {
+   "location": "Rüdersdorf, Germany",
+   "coordinates": [13.84259,52.481591]
+ },
+ {
+   "location": "Ruidoso Downs, New Mexico",
+   "coordinates": [-105.599667,33.329528]
+ },
+ {
+   "location": "Rye, New York",
+   "coordinates": [-73.68696,40.973524]
+ },
+ {
+   "location": "Sacramento, California",
+   "coordinates": [-121.464208,38.567019]
+ },
+ {
+   "location": "Saddle Rock, New York",
+   "coordinates": [-73.749525,40.794618]
+ },
+ {
+   "location": "Saint Petersburg, Russia",
+   "coordinates": [30.340232,59.911039]
+ },
+ {
+   "location": "Saint Petersburg, Russia",
+   "coordinates": [30.331579,59.91208]
+ },
+ {
+   "location": "Saint-Laurent-sur-Mer, France",
+   "coordinates": [-0.871109,49.36964]
+ },
+ {
+   "location": "Saipan, Mariana Islands",
+   "coordinates": [145.747499,15.178016]
+ },
+ {
+   "location": "Salamanca, Spain",
+   "coordinates": [-5.662155,40.968136]
+ },
+ {
+   "location": "Salé, Morocco",
+   "coordinates": [-6.79846,34.0531]
+ },
+ {
+   "location": "Salinas, California",
+   "coordinates": [-121.635021,36.684412]
+ },
+ {
+   "location": "Salisbury Mills, New York",
+   "coordinates": [-74.098318,0.428583]
+ },
+ {
+   "location": "Salt Lake City, Utah",
+   "coordinates": [-111.933984,40.773201]
+ },
+ {
+   "location": "Salt Rock, KwaZulu-Natal, South Africa",
+   "coordinates": [31.238516,-29.495763]
+ },
+ {
+   "location": "San Antonio, Texas",
+   "coordinates": [-98.504798,29.449672]
+ },
+ {
+   "location": "San Diego, California",
+   "coordinates": [-117.15529,32.72793]
+ },
+ {
+   "location": "San Dimas, California",
+   "coordinates": [-117.809633,34.111087]
+ },
+ {
+   "location": "San Francisco, California",
+   "coordinates": [-122.431272,37.778008]
+ },
+ {
+   "location": "San Jose, California",
+   "coordinates": [-121.870978,37.325723]
+ },
+ {
+   "location": "San Juan, Puerto Rico",
+   "coordinates": [-66.115403,18.465946]
+ },
+ {
+   "location": "San Salvador, El Salvador",
+   "coordinates": [-89.206481,13.694436]
+ },
+ {
+   "location": "Sandusky, Ohio",
+   "coordinates": [-82.706595,41.443692]
+ },
+ {
+   "location": "Santa Clara, Cuba",
+   "coordinates": [-79.96667,22.4]
+ },
+ {
+   "location": "Santa Clarita, California",
+   "coordinates": [-118.520896,34.408581]
+ },
+ {
+   "location": "Santa Cruz, California",
+   "coordinates": [-122.032718,36.971635]
+ },
+ {
+   "location": "Santa Fe, New Mexico",
+   "coordinates": [-105.950422,35.67578]
+ },
+ {
+   "location": "Santiago, Chile",
+   "coordinates": [-70.640823,-33.480154]
+ },
+ {
+   "location": "Santo Domingo, Dominican Republic",
+   "coordinates": [-69.934177,18.466037]
+ },
+ {
+   "location": "Sarajevo, Bosnia and Herzegovina",
+   "coordinates": [18.401872,43.883557]
+ },
+ {
+   "location": "Saugus, California",
+   "coordinates": [-118.539831,34.413634]
+ },
+ {
+   "location": "Savannah, Georgia",
+   "coordinates": [-81.099581,32.043334]
+ },
+ {
+   "location": "Scottsdale, Arizona",
+   "coordinates": [-111.856562,33.687647]
+ },
+ {
+   "location": "Scranton, Pennsylvania",
+   "coordinates": [-75.666399,41.398328]
+ },
+ {
+   "location": "Seattle, Washington",
+   "coordinates": [-122.331537,47.673455]
+ },
+ {
+   "location": "Sequoyah, Oklahoma",
+   "coordinates": [-95.595364,36.380523]
+ },
+ {
+   "location": "Sevastopol, Crimea",
+   "coordinates": [33.624167,44.537778]
+ },
+ {
+   "location": "Seville, Spain",
+   "coordinates": [-5.97997,37.383606]
+ },
+ {
+   "location": "Shanghai, China",
+   "coordinates": [121.581293,31.132959]
+ },
+ {
+   "location": "Sheffield, England",
+   "coordinates": [-1.469251,53.382121]
+ },
+ {
+   "location": "Sherwood, Ohio",
+   "coordinates": [-84.359174,39.085745]
+ },
+ {
+   "location": "Shreveport, Louisiana",
+   "coordinates": [-93.764207,32.467848]
+ },
+ {
+   "location": "Shreveport, Louisiana",
+   "coordinates": [-93.795723,32.493294]
+ },
+ {
+   "location": "Siberia, Russia",
+   "coordinates": [102.578509,75.318681]
+ },
+ {
+   "location": "Sicily, Italy",
+   "coordinates": [14.146425,37.588525]
+ },
+ {
+   "location": "Siglufjörður, Iceland",
+   "coordinates": [-18.913908,66.150638]
+ },
+ {
+   "location": "Silverton, Colorado",
+   "coordinates": [-107.664062,37.811642]
+ },
+ {
+   "location": "Sitka, Alaska",
+   "coordinates": [-135.308404,57.300379]
+ },
+ {
+   "location": "Smithers, Canada",
+   "coordinates": [-127.176081,54.775234]
+ },
+ {
+   "location": "Smithville, North Carolina",
+   "coordinates": [-77.98344,33.860452]
+ },
+ {
+   "location": "Sofia, Bulgaria",
+   "coordinates": [23.325102,42.694609]
+ },
+ {
+   "location": "Sonora, Mexico",
+   "coordinates": [-114.965043,32.078465]
+ },
+ {
+   "location": "Sooke, Canada",
+   "coordinates": [-123.735607,48.373669]
+ },
+ {
+   "location": "South Pasadena, California",
+   "coordinates": [-118.157314,34.111346]
+ },
+ {
+   "location": "Southport, North Carolina",
+   "coordinates": [-78.020473,33.926526]
+ },
+ {
+   "location": "Soweto, South Africa",
+   "coordinates": [27.844448,-26.243878]
+ },
+ {
+   "location": "Sparta, Illinois",
+   "coordinates": [-89.713801,38.141816]
+ },
+ {
+   "location": "Sparta, Mississippi",
+   "coordinates": [-88.979226,33.769011]
+ },
+ {
+   "location": "Split, Croatia",
+   "coordinates": [16.43535,43.516228]
+ },
+ {
+   "location": "Spokane, Washington",
+   "coordinates": [-117.407179,47.681693]
+ },
+ {
+   "location": "Squahamish, Washington",
+   "coordinates": [-122.579992,47.7203]
+ },
+ {
+   "location": "Squamish, Canada",
+   "coordinates": [-123.156146,49.700111]
+ },
+ {
+   "location": "St. Croix, Virgin Islands",
+   "coordinates": [-64.902925,17.678938]
+ },
+ {
+   "location": "St. Louis, Missouri",
+   "coordinates": [-90.239861,38.635957]
+ },
+ {
+   "location": "St. Paul, Minnesota",
+   "coordinates": [-93.094896,44.957076]
+ },
+ {
+   "location": "St. Petersburg, Florida",
+   "coordinates": [-82.6514,27.79753]
+ },
+ {
+   "location": "Stamford, Connecticut",
+   "coordinates": [-73.549399,41.105644]
+ },
+ {
+   "location": "Starke, Florida",
+   "coordinates": [-81.984073,29.979565]
+ },
+ {
+   "location": "Stirling, Scotland",
+   "coordinates": [-3.936781,56.116404]
+ },
+ {
+   "location": "Stockholm, Sweden",
+   "coordinates": [18.069523,59.325927]
+ },
+ {
+   "location": "Stockton, California",
+   "coordinates": [-121.30223,37.979165]
+ },
+ {
+   "location": "Stony Mountain, Canada",
+   "coordinates": [-97.225256,50.082185]
+ },
+ {
+   "location": "Stranraer, Scotland",
+   "coordinates": [-4.857418,54.635046]
+ },
+ {
+   "location": "Stykkishólmur, Iceland",
+   "coordinates": [-22.735112,65.073692]
+ },
+ {
+   "location": "Surrey, England",
+   "coordinates": [-0.474562,51.253434]
+ },
+ {
+   "location": "Svalbard, Norway",
+   "coordinates": [14.762515,78.920969]
+ },
+ {
+   "location": "Swansea, Wales",
+   "coordinates": [-3.94368,51.621402]
+ },
+ {
+   "location": "Sydney, Australia",
+   "coordinates": [151.194191,-34.035875]
+ },
+ {
+   "location": "Sylt, Germany",
+   "coordinates": [8.337848,54.91178]
+ },
+ {
+   "location": "Syosset, New York",
+   "coordinates": [-73.500117,40.814442]
+ },
+ {
+   "location": "Syracuse, New York",
+   "coordinates": [-76.148209,43.040231]
+ },
+ {
+   "location": "Tacoma, Washington",
+   "coordinates": [-122.439822,47.226013]
+ },
+ {
+   "location": "Taipei, Taiwan",
+   "coordinates": [121.597366,25.105497]
+ },
+ {
+   "location": "Tampa, Florida",
+   "coordinates": [-82.495716,27.935231]
+ },
+ {
+   "location": "Tangier, Morocco",
+   "coordinates": [-5.859881,35.756838]
+ },
+ {
+   "location": "Taunton, Massachusetts",
+   "coordinates": [-71.105833,41.924167]
+ },
+ {
+   "location": "Tehran, Iran",
+   "coordinates": [51.42151,35.69439]
+ },
+ {
+   "location": "Tempe, Arizona",
+   "coordinates": [-111.923357,33.403229]
+ },
+ {
+   "location": "Tenerife, Spain",
+   "coordinates": [-16.261104,28.462493]
+ },
+ {
+   "location": "Thibodaux, Louisiana",
+   "coordinates": [-90.814749,29.803165]
+ },
+ {
+   "location": "Thousand Oaks, California",
+   "coordinates": [-118.869316,34.20287]
+ },
+ {
+   "location": "Tijuana, Mexico",
+   "coordinates": [-116.948423,32.50153]
+ },
+ {
+   "location": "Tokyo, Japan",
+   "coordinates": [139.75391,35.695126]
+ },
+ {
+   "location": "Toledo, Spain",
+   "coordinates": [-4.032048,39.86456]
+ },
+ {
+   "location": "Tolketna, Alaska",
+   "coordinates": [-150.041406,62.277803]
+ },
+ {
+   "location": "Tom's River, New Jersey",
+   "coordinates": [-74.176645,39.98162]
+ },
+ {
+   "location": "Tombstone, Arizona",
+   "coordinates": [-110.062378,31.719158]
+ },
+ {
+   "location": "Topeka, Kansas",
+   "coordinates": [-95.68915,39.031438]
+ },
+ {
+   "location": "Toronto, Canada",
+   "coordinates": [-79.38171,43.64877]
+ },
+ {
+   "location": "Torrance, California",
+   "coordinates": [-118.337587,33.831227]
+ },
+ {
+   "location": "Trachimbrod, Ukraine",
+   "coordinates": [25.697222,50.920833]
+ },
+ {
+   "location": "Trenton, New Jersey",
+   "coordinates": [-74.752462,40.222799]
+ },
+ {
+   "location": "Tripoli, Libya",
+   "coordinates": [13.191841,32.883145]
+ },
+ {
+   "location": "Troy (present day Canakkale, Turkey)",
+   "coordinates": [26.381139,40.060995]
+ },
+ {
+   "location": "Troy, New York",
+   "coordinates": [-73.67443,42.733314]
+ },
+ {
+   "location": "Tsavo, Kenya",
+   "coordinates": [38.459959,-2.99522]
+ },
+ {
+   "location": "Tucker, Arkansas",
+   "coordinates": [-91.95581,34.444063]
+ },
+ {
+   "location": "Tucson, Arizona",
+   "coordinates": [-110.887245,32.18315]
+ },
+ {
+   "location": "Tucumcari, New Mexico",
+   "coordinates": [-103.726501,35.18039]
+ },
+ {
+   "location": "Tulsa, Oklahoma",
+   "coordinates": [-95.90727,36.127576]
+ },
+ {
+   "location": "Tunis, Tunisia",
+   "coordinates": [10.174517,36.810532]
+ },
+ {
+   "location": "Turin, Italy",
+   "coordinates": [7.666329,45.071948]
+ },
+ {
+   "location": "Twickenham, England",
+   "coordinates": [-0.335254,51.444317]
+ },
+ {
+   "location": "Tybee Island, Georgia",
+   "coordinates": [-80.843174,32.020536]
+ },
+ {
+   "location": "Uspallata, Argentina",
+   "coordinates": [-69.348062,-32.590844]
+ },
+ {
+   "location": "Utqiaġvik, Alaska",
+   "coordinates": [-156.766094,71.27324]
+ },
+ {
+   "location": "Uxbridge, Massachusetts",
+   "coordinates": [-71.638285,42.059339]
+ },
+ {
+   "location": "Valencia, Spain",
+   "coordinates": [-0.376134,39.469161]
+ },
+ {
+   "location": "Valletta, Malta",
+   "coordinates": [14.512929,35.898202]
+ },
+ {
+   "location": "Van Nuys, California",
+   "coordinates": [-118.459015,34.186307]
+ },
+ {
+   "location": "Vancouver, Canada",
+   "coordinates": [-123.11874,49.2819]
+ },
+ {
+   "location": "Venezuela",
+   "coordinates": [-64.826269,2.650726]
+ },
+ {
+   "location": "Ventura, California",
+   "coordinates": [-119.274703,34.276605]
+ },
+ {
+   "location": "Veracruz, Mexico",
+   "coordinates": [-95.652844,18.628351]
+ },
+ {
+   "location": "Verona, Italy",
+   "coordinates": [11.000391,45.450991]
+ },
+ {
+   "location": "Victorville, California",
+   "coordinates": [-117.338091,34.523243]
+ },
+ {
+   "location": "Vienna, Austria",
+   "coordinates": [16.348388,48.198674]
+ },
+ {
+   "location": "Volgograd, Russia",
+   "coordinates": [44.479237,48.685749]
+ },
+ {
+   "location": "Wabasha, Minnesota",
+   "coordinates": [-92.040453,44.37256]
+ },
+ {
+   "location": "Wainiha, Hawaii",
+   "coordinates": [-159.551847,22.192137]
+ },
+ {
+   "location": "Walterboro, South Carolina",
+   "coordinates": [-80.671878,32.903299]
+ },
+ {
+   "location": "Warsaw, Poland",
+   "coordinates": [21.065706,52.229896]
+ },
+ {
+   "location": "Washington, DC",
+   "coordinates": [-77.014683,38.912097]
+ },
+ {
+   "location": "Waterford, Vermont",
+   "coordinates": [-71.950587,44.378241]
+ },
+ {
+   "location": "Waverly, Alabama",
+   "coordinates": [-85.577285,32.734122]
+ },
+ {
+   "location": "Wellington, New Zealand",
+   "coordinates": [174.773104,-41.276895]
+ },
+ {
+   "location": "Wendover, Utah",
+   "coordinates": [-113.965477,40.771295]
+ },
+ {
+   "location": "West Orange Pavilion Mall, West Orange, New Jersey",
+   "coordinates": [-74.248135,40.803378]
+ },
+ {
+   "location": "Westchester, New York",
+   "coordinates": [-73.794113,41.118963]
+ },
+ {
+   "location": "Westminster, England",
+   "coordinates": [-0.134521,51.494486]
+ },
+ {
+   "location": "Weston, Massachusetts",
+   "coordinates": [-71.295699,42.357793]
+ },
+ {
+   "location": "Wheeling, West Virginia",
+   "coordinates": [-80.705862,40.089782]
+ },
+ {
+   "location": "Whittier, California",
+   "coordinates": [-118.019255,33.966624]
+ },
+ {
+   "location": "Wichita, Kansas",
+   "coordinates": [-97.333266,37.693445]
+ },
+ {
+   "location": "Wicklow, Ireland",
+   "coordinates": [-6.030845,52.981122]
+ },
+ {
+   "location": "Wilmington, North Carolina",
+   "coordinates": [-77.887524,34.203413]
+ },
+ {
+   "location": "Winnipeg, Canada",
+   "coordinates": [-97.154979,49.869673]
+ },
+ {
+   "location": "Winston-Salem, North Carolina",
+   "coordinates": [-80.255829,36.118359]
+ },
+ {
+   "location": "Woodstock, Illinois",
+   "coordinates": [-88.444136,42.313672]
+ },
+ {
+   "location": "Woodstock, New York",
+   "coordinates": [-74.114498,42.040401]
+ },
+ {
+   "location": "Worcester, Massachusetts",
+   "coordinates": [-71.805846,42.268239]
+ },
+ {
+   "location": "Xenia, Ohio",
+   "coordinates": [-83.938486,39.689319]
+ },
+ {
+   "location": "Yangon, Myanmar",
+   "coordinates": [96.193238,16.891664]
+ },
+ {
+   "location": "Ybor City, Florida",
+   "coordinates": [-82.429115,27.964411]
+ },
+ {
+   "location": "Yonkers, New York",
+   "coordinates": [-73.870474,40.94463]
+ },
+ {
+   "location": "Ypsilanti, Michigan",
+   "coordinates": [-83.61653,42.242215]
+ },
+ {
+   "location": "Zagreb, Croatia",
+   "coordinates": [15.991102,45.84298]
+ },
+ {
+   "location": "Zahedan, Iran",
+   "coordinates": [60.866082,29.482962]
+ },
+ {
+   "location": "Zuccabar, Algeria",
+   "coordinates": [2.230996,36.309366]
+ },
+ {
+   "location": "Zurich, Switzerland",
+   "coordinates": [8.525378,47.384809]
+ }
+]
